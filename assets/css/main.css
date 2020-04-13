@@ -2930,7 +2930,8 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #45558d;
+				/*background-color: #45558d;*/
+				background-color: #daebd3;
 			}
 
 			input[type="submit"].primary.icon:before,
